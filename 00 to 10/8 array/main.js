@@ -2,10 +2,10 @@
 // array declare ways
 let a = [];
 let b = [];
-let c = ["subhan", 15];
-c.push("kaladi)");
+let c = ["Shahid", 15];
+c.push("Mazari)");
 console.log(c);
-function sk(name) {
+function sm(name) {
     console.log(name);
 }
-sk("Subhan");
+sm("Shahid");
