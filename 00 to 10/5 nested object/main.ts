@@ -1,5 +1,3 @@
-
-
 type a ={
     name : string,
     date : {
@@ -10,7 +8,7 @@ type a ={
     age : number
 } 
 let b : a = {
-    name : "subhan",
+    name : "Shahid",
     date : {
         day : 7,
         month : "july",
