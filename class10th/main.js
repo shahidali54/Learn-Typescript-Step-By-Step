@@ -1,7 +1,7 @@
-subhan();
-let b = "subhan";
-function subhan() {
-    console.log("SUBHAN KALADI");
+shahid();
+let b = "shahid";
+function shahid() {
+    console.log("Shahid Ali");
 }
 console.log(a);
 var a;
