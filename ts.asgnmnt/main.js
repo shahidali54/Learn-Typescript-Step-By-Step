@@ -1,4 +1,4 @@
-//1. //Qno1
+// 1. //Qno1
 // installing node, typescript and vs code
 // Ans Done
 
@@ -34,14 +34,14 @@
 //   document.write("Addition result:", Multiplication);
 
 // 7. // Qno8
- // document.write(5 + 3);
-      // document.write(__________________ <br>);
-      // document.write(5 + 3);
-      // document.write(__________________ <br>);
-      // document.write(5 + 3);
-      // document.write(__________________ <br>);
-      // document.write(5 + 3);
-      // document.write(__________________ <br>);
+//  document.write(5 + 3);
+//       document.write(__________________ <br>);
+//       document.write(5 + 3);
+//       document.write(__________________ <br>);
+//       document.write(5 + 3);
+//       document.write(__________________ <br>);
+//       document.write(5 + 3);
+//       document.write(__________________ <br>);
 
 // 8. //Qno9
 //   let favnumber = 8;
