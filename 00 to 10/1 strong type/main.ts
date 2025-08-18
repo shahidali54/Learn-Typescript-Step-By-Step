@@ -5,8 +5,8 @@ let a : number = 15
 console.log(a);
 
 
-let b : string = "subhan"
-b = "kaladi"
+let b : string = "Shahid"
+b = "Mazari"
 console.log(b);
 
 
@@ -16,6 +16,6 @@ console.log(b);
 let c = 10
 console.log(c);
 
-let d = "asad"
-d = "kaladi"
+let d = "Subhan"
+d = "Kaladi"
 console.log(d);
