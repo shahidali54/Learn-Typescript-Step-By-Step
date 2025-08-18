@@ -14,7 +14,7 @@ let teacher = {
     experience: "three years"
 };
 let student = {
-    name: "SUBHAN",
+    name: "Shahid",
     age: 20
 };
 student = teacher; // no error between student to teacher b/c
@@ -25,7 +25,7 @@ student = teacher; // no error between student to teacher b/c
 // nahi aa sakti ......
 // callback
 function sayName() {
-    console.log("SUBHAN");
+    console.log("Shahid");
 }
 // now add the callback funtion
 function sum(num1, num2, callback) {
