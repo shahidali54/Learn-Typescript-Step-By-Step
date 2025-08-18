@@ -1,5 +1,3 @@
-
-
 enum sports {football , cricket , hockey}
 
 let sport : string  = sports[2]
