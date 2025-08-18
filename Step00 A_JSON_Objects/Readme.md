@@ -59,7 +59,6 @@ Example :
  [ "Vipin", "Ankit", "Raj"]
 
 
-
 Accessing JSON Data
 
 We can access JSON data using the dot notation.
