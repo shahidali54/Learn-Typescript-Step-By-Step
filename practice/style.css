@@ -22,15 +22,12 @@ UL{
     margin: 0;
     padding: 0px 60%;
     
-    color: white;
-    
+    color: white;  
 }
 li{
     padding: 0px 10px;
     position: relative;
     bottom: 50px;
-    
-    
 }
  #sk{
    position: relative;
