@@ -1,9 +1,9 @@
-// var fullName = "subhanullah";
-// console.log(fullName);
-// fullName = "subhankaladi";
+var fullName = "shahidali";
+console.log(fullName);
+fullName = "shahidali";
 
-// printed:subhanullah b/c js work top to bottom
+// printed:shahidali b/c js work top to bottom
 
-// const hello = "subhan"
+const hello = "shahid"
 
-//  const subhan ="kaladi"
+ const subhan ="ali"
