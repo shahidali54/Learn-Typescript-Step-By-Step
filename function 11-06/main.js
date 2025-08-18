@@ -1,10 +1,10 @@
 "use strict";
-function sk1(name, id) {
+function sm1(name, id) {
     console.log(name, id);
 }
-sk1("SUBHAN", 306343);
-function sk() {
+sm1("shahid", 370195);
+function sm() {
     for (let a = 0; a < 1; a++)
         console.log("Subhan", 306343);
 }
-sk();
+sm1();
