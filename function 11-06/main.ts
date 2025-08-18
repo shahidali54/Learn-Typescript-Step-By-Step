@@ -1,29 +1,23 @@
-
-
 ////////// FUNCTION
 
-
-function sk1(name:string , id:number) {
+function sm1(name:string , id:number) {
     
     
         console.log(name,id);
         
     
 }
-sk1("SUBHAN" , 306343)
+sm1("Shahid" , 306343)
 
 
 
 ////////// LOOP FUNCTION
 
-
-function sk() {
+function sm() {
     
     for (let a = 0; a < 1; a++)
-        console.log("Subhan",306343);
+        console.log("Shahid",370195);
         
     
 }
-sk()
-
-
+sm()
