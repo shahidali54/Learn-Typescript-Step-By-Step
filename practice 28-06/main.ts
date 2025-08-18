@@ -1,4 +1,3 @@
-
 // import inquirer from "inquirer"
 
 // const answer = await inquirer.prompt([
@@ -49,7 +48,7 @@
 //     role : string
 // }
 // const stdnt : student = {
-//     name : "subhan",
+//     name : "shahid",
 //     age : 20,
 //     role : "software engineer"
 // }
@@ -85,7 +84,7 @@ type B = A & {
     age : number
 }
 const person : B = {
-    name : "subhan",
+    name : "shahid",
     age : 20
 }
 console.log(person.name); 
