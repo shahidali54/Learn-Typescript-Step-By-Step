@@ -7,6 +7,8 @@
 // console.log("wellcome " + answer.userName)
 // let array1 : number[] = [5,6,7];
 // let array2 : array<number> = [1,2,3];
+
+
 let a = 5;
 a++;
 console.log(a);
@@ -20,11 +22,11 @@ function teacherName(firstName, lastName) {
     else
         return firstName;
 }
-let result1 = teacherName("subhan", "kaladi");
+let result1 = teacherName("shahid", "mazari");
 console.log(result1);
-let name1 = "subhan";
-let name2 = "kaladi";
-console.log('hi ${name1} ${name2}');
+let name1 = "shahid";
+let name2 = "mazari";
+console.log(`hi ${name1} ${name2}`);
 let GlobalVar = 100;
 for (let c = 0; c < 3; c++) { //code block
     console.log(GlobalVar);
