@@ -11,6 +11,8 @@
 // let array1 : number[] = [5,6,7];
 // let array2 :Array<number> = [1,2,3];
 
+
+
 let a = 5;      
 a++;    
 console.log(a) 
@@ -25,12 +27,12 @@ function teacherName (firstName: string , lastName: string):string {
 if     (lastName) return firstName + " " + lastName;
 else  return firstName;     
 }
-let result1 = teacherName("subhan" , "kaladi");  
+let result1 = teacherName("shahid" , "ali");  
 console.log(result1)
 
-let name1 : string = "subhan"
-let name2 : string = "kaladi"
-console.log('hi ${name1} ${name2}');
+let name1 : string = "shahid"
+let name2 : string = "ali"
+console.log(`hi ${name1} ${name2}`);
 
 let GlobalVar=100;  
 
