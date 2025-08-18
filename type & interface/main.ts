@@ -1,23 +1,22 @@
 ///////////////////////////// TYPE ///////////////////
 
-
-type sk = {
+type sm = {
     name: string,
     age: number,
     exp: boolean
 }
 
-type SK = {
+type SM = {
     nickname: string,
     day: string,
     health: boolean
 }
 
-let bonding: sk & SK = {
-    name:"subhan",
+let bonding: sm & SM = {
+    name:"shahid",
     age: 20,
     exp: true,
-    nickname: "SK",
+    nickname: "SM",
     day: "sunday",
     health: true
 }
@@ -27,23 +26,23 @@ console.log(bonding);
 /////////////////////////// INTERFACE  ////////////////////
 
 
-interface ak  {
+interface sa  {
     name: string,
     age: number,
     exp: boolean
 }
 
-interface AK  {
+interface SA  {
     nickname: string,
     day: string,
     health: boolean
 }
 
-let bondings: ak | AK = {
-    name:"ASAD",
+let bondings: sa | SA = {
+    name:"Shahid",
     age: 28,
     exp: true,
-    nickname: "AK",
+    nickname: "SA",
     day: "sunday",
     health: true
 }
