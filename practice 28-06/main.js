@@ -1,6 +1,7 @@
 // import inquirer from "inquirer"
+
 const person = {
-    name: "subhan",
+    name: "Shahid",
     age: 20
 };
 console.log(person.name);
