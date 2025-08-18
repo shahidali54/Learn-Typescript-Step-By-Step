@@ -8,3 +8,4 @@ console.log(colorNamee);
 ; //can assign values to all
 var colorIndex2 = 4 /* Color6["Blue"] */;
 console.log(colorIndex2);
+
