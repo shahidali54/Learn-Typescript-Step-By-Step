@@ -1,5 +1,3 @@
-
-
 // array declare ways
 
 
@@ -8,15 +6,15 @@ let a : number[] = []
 
 let b : Array<number> = []
 
-let c = ["subhan" , 15]
+let c = ["Shahid" , 15]
 
-c.push("kaladi)")
+c.push("Mazari)")
 
 console.log(c);
 
 
-// function sk(name:string) {
-//     console.log(name)
-// }
-// sk("Subhan")
+function sm(name:string) {
+    console.log(name)
+}
+sm("Shahid")
 
