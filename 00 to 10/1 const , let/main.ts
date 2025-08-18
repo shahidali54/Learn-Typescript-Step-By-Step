@@ -1,8 +1,6 @@
+let a = "Shahid"
 
-
-let a = "subhan"
-
-a = "kaladi"
+a = "Mazari"
 
 // let : it have ability to reassign
 
