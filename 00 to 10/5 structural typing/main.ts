@@ -1,5 +1,3 @@
-
-
 interface a {
     name : string,
     age : number
@@ -12,13 +10,13 @@ interface b {
 }
 
 let c : a = {
-    name : "subhan",
+    name : "Shahid",
     age : 20
 }
 
 let d : b = {
-    name : "asad",
-    age : 29,
+    name : "Mazari",
+    age : 24,
     experience : true
 }
 
