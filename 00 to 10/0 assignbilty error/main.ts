@@ -1,6 +1,4 @@
-
-
-let a : string = "subhan"
+let a : string = "Shahid"
 
 a = 15
 
