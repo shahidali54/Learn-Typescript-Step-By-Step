@@ -1,9 +1,7 @@
-
-
 let a : string | number | boolean
 
 
-a = "subhan"
+a = "Shahid"
 console.log(a);
 
 
