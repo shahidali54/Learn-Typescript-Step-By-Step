@@ -1,6 +1,3 @@
-
-
-
 type Ball = {
     diameter : number
 }
@@ -41,7 +38,7 @@ let teacher : Teacher ={
 }
 
 let student : Student = {
-    name : "SUBHAN",
+    name : "Shahid",
     age : 20
 }
 
@@ -56,7 +53,7 @@ student = teacher   // no error between student to teacher b/c
 
                 // callback
     function sayName() {
-        console.log("SUBHAN");
+        console.log("Shahid");
         }
 
         // now add the callback funtion
