@@ -1,5 +1,5 @@
 "use strict";
-let a = "subhan";
+let a = "Shahid";
 console.log(a);
-let b = "subhan";
+let b = "Subhan";
 console.log(b.length);
