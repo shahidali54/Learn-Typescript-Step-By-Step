@@ -1,6 +1,4 @@
-
-
- type a = {
+type a = {
     name : string,
     age : number
  }
@@ -10,7 +8,7 @@
  }
 
  let c : a & b  =  {
-    name : "subhan",
+    name : "Shahid",
     age : 20,
     experience : true
  }
