@@ -1,6 +1,4 @@
-
-
-let a = "subhan"
+let a = "Shahid"
 
 export default a
 
