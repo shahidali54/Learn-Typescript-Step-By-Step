@@ -1,5 +1,3 @@
-
-
 // ALISED type 
 
 type a ={
@@ -8,7 +6,7 @@ type a ={
 }
 
 let b : a = {
-    name : "subhan",
+    name : "Shahid",
     age : 20
 }
 
@@ -19,6 +17,6 @@ let c :{
     name : string,
     age : number
 } = {
-    name : "asad",
-    age : 29
+    name : "Subhan",
+    age : 20
 }
