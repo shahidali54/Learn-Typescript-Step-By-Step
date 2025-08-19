@@ -1,6 +1,6 @@
 "use strict";
 let c = {
-    name: "subhan",
+    name: "Shahid",
     age: 20,
     experience: true
 };
