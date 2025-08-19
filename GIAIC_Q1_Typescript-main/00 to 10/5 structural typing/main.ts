@@ -1,5 +1,3 @@
-
-
 interface a {
     name : string,
     age : number
@@ -12,12 +10,12 @@ interface b {
 }
 
 let c : a = {
-    name : "subhan",
+    name : "Shahid",
     age : 20
 }
 
 let d : b = {
-    name : "asad",
+    name : "Subhan",
     age : 29,
     experience : true
 }
@@ -25,6 +23,5 @@ let d : b = {
 c = d
 
 d = c
-
 
 // for example grade barh sakta hai lekin kam nhi
