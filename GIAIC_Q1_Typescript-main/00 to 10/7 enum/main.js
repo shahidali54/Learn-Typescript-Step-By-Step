@@ -23,3 +23,4 @@ var sports3;
 })(sports3 || (sports3 = {}));
 let sport3 = sports3[11];
 console.log(sport3);
+
