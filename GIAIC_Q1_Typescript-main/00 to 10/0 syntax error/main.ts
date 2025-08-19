@@ -1,5 +1,2 @@
-
-
-
-lett a = "kaladi"
+lett a = "Mazari"
 console.log(a);
