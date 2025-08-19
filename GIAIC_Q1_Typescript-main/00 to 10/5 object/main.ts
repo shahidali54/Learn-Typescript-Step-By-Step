@@ -1,8 +1,6 @@
-
-
 let a = {
-    name : "subhan",
-    age : 15
+    name : "Shahid",
+    age : 20
 }
 
 console.log(a.name);
