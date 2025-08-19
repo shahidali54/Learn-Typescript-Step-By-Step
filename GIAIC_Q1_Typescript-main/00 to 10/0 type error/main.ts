@@ -1,6 +1,3 @@
-
-
-
-let a = "subhan"
+let a = "Shahid"
 console.loger(a);
 
