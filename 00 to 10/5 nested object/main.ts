@@ -6,7 +6,8 @@ type a ={
         year : number
     },
     age : number
-} 
+}
+
 let b : a = {
     name : "Shahid",
     date : {
