@@ -10,9 +10,7 @@ let b : a = {
     age : 20
 }
 
-
 // ANONYMOUS type
-
 let c :{
     name : string,
     age : number
