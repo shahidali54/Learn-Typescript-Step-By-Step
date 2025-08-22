@@ -1,5 +1,4 @@
 // import inquirer from "inquirer"
-
 const person = {
     name: "Shahid",
     age: 20
