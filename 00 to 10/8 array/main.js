@@ -9,3 +9,4 @@ function sm(name) {
     console.log(name);
 }
 sm("Shahid");
+
