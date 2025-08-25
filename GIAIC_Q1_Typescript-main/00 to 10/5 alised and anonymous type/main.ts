@@ -10,7 +10,6 @@ let b : a = {
     age : 20
 }
 
-
 // ANONYMOUS type
 
 let c :{
@@ -20,3 +19,4 @@ let c :{
     name : "Subhan",
     age : 20
 }
+
