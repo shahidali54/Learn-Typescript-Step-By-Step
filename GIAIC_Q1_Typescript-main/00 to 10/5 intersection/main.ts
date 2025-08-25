@@ -14,6 +14,3 @@ type a = {
  }
 
  console.log(c.age);
- 
-
- 
