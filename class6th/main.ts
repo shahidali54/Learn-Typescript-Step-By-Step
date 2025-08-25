@@ -52,8 +52,3 @@ console.log(a--);   //4
 let a = 5
     console.log(a++);
 console.log(a);
-
-    
-
-
-
