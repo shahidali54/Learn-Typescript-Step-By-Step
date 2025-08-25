@@ -143,6 +143,5 @@ function shahid() {
     console.log(cooked);
     
 }
-
 subhan()
 shahid()
