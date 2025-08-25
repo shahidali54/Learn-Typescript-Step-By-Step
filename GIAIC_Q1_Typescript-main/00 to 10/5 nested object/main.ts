@@ -7,6 +7,7 @@ type a ={
     },
     age : number
 } 
+
 let b : a = {
     name : "Shahid",
     date : {
