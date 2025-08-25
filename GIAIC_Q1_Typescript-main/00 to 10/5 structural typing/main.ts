@@ -23,5 +23,3 @@ let d : b = {
 c = d
 
 d = c
-
-// for example grade barh sakta hai lekin kam nhi
