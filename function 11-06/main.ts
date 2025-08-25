@@ -1,4 +1,4 @@
-////////// FUNCTION
+// FUNCTION
 
 function sm1(name:string , id:number) {
     
@@ -11,13 +11,11 @@ sm1("Shahid" , 306343)
 
 
 
-////////// LOOP FUNCTION
+// LOOP FUNCTION
 
 function sm() {
     
     for (let a = 0; a < 1; a++)
         console.log("Shahid",370195);
-        
-    
 }
 sm()
