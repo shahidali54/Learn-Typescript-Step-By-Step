@@ -18,11 +18,11 @@
 // console.log(ca);
 
 
-const enum Color4 {Red = 1, Green, Blue};
-var colorNamee= Color4["Blue"]; //Not allowed with const enums
+const enum Color4 { Red = 1, Green, Blue };
+var colorNamee = Color4["Blue"]; //Not allowed with const enums
 console.log(colorNamee);
 
 
-const enum Color6 {Red = 1, Green = 2, Blue = 4};//can assign values to all
+const enum Color6 { Red = 1, Green = 2, Blue = 4 };//can assign values to all
 var colorIndex2 = Color6["Blue"];
 console.log(colorIndex2);
