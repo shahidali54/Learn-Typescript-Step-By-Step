@@ -6,4 +6,4 @@ let answers = await inquirer.prompt([{
     message: "what is your name?: ",
     
 }])
-console.log("wellcome " + answers.user)
+console.log("wellcome " + answers.user) 
