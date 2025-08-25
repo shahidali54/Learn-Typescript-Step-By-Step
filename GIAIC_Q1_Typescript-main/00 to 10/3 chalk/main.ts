@@ -10,4 +10,3 @@ const answers = await inquirer.prompt([
 ])
 
 console.log(chalk.bule(answers));
-
