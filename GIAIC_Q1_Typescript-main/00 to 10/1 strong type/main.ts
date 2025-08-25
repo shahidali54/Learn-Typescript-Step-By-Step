@@ -9,7 +9,6 @@ b = "Ali"
 console.log(b);
 
 
-
 // inference
 
 let c = 10
