@@ -62,5 +62,3 @@
 //         console.log(" you are not eligible");         // its false
         
 //     }
-    
-
