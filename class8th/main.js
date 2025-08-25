@@ -32,4 +32,3 @@ console.log(num1 % num2); // answer ( 5 )
 //     else {
 //         console.log(" you are not eligible");         // its false
 //     }
-
