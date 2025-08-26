@@ -1,7 +1,5 @@
-
 // there are two type of module
 //  IMPORT EXPORT
-
 
 import a  from "./first"
 
