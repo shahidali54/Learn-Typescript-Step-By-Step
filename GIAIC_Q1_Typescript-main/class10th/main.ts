@@ -1,14 +1,12 @@
 import { log } from "console";
 
+shahid()
 
 
-subhan()
+let b = "shahid"
 
-
-let b = "subhan"
-
-function subhan() {
-    console.log("SUBHAN KALADI");
+function shahid() {
+    console.log("Shahid ali");
     
 }
 
