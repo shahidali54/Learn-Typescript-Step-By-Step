@@ -4,6 +4,7 @@ a = "Canada";
 let b = 9;
 let c = true;
 
+
 //type inference
 let e = "USA";
 let f = 10.9;
