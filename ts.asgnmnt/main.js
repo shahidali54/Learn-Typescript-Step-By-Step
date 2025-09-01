@@ -3,11 +3,11 @@
 // Ans Done
 
 // 2.//Qno2
-//   let a = "SUBHAN";
+//   let a = "Shahid";
 //   document.write(`Hello${a}, would you like to learn some python today?`);
 
 // 3.//Qno3
-// let personName = "Subhan";
+// let personName = "Shahid";
 //   console.log("LowerCase:", personName.toLowerCase());
 //   console.log("UowerCase:", personName.toUpperCase());
 //   console.log("titleCase:", personName.replace(/\b\w/g, (c) => c.toUpperCase()));
@@ -48,20 +48,20 @@
 //   document.write(` My Favorite Number Is ${favnumber}`);
 
 //  9. // Qno10
-// auther:[ Subhan];
+// auther:[ Shahid];
 // date:[friday,febraury,16,2024];
 
 // 10. //Qno11
-//   let friends = ["Subhan", "Shahid", "Adnan", "Dilbar"];
+//   let friends = ["Shahid", "Subhan", "Adnan", "Dilbar"];
 //   document.write(`we are brothers an other mothers ${friends}`);
 
 // 11. // Qno12
-// let friends = ["Subhan", "Shahid", "Dilbar", "Adnan \t\n"];
+// let friends = ["Shahid", "Subhan", "Dilbar", "Adnan \t\n"];
 // let message = "we are mates";
 // // document.write(`${friends}${message}`);
 
 // 12. // Qno21
-// let c: String = "Subhan";
+// let c: String = "Shahid";
 // document.write("c")
 
 // 13. // Qno23
