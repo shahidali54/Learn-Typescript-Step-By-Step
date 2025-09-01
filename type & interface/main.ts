@@ -49,4 +49,4 @@ let bondings: sa | SA = {
 console.log(bondings);
 
 
-//////////////////// Difference   =  and |  /////////////////
+// Difference   =  and | 
