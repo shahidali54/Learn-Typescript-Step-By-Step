@@ -4,7 +4,7 @@
 //     name: "userName",
 //     type: "string",
 //     message: "whats your name ?"
-    
+
 // }])
 // console.log("wellcome " + answer.userName)
 
@@ -13,29 +13,29 @@
 
 
 
-let a = 5;      
-a++;    
-console.log(a) 
+let a = 5;
+a++;
+console.log(a)
 
-let myAge : string | number;
+let myAge: string | number;
 myAge = 16;
 console.log(myAge);
 // console.log(myAge.ToLowerCase());
 
-function teacherName (firstName: string , lastName: string):string {
+function teacherName(firstName: string, lastName: string): string {
 
-if     (lastName) return firstName + " " + lastName;
-else  return firstName;     
+  if (lastName) return firstName + " " + lastName;
+  else return firstName;
 }
-let result1 = teacherName("shahid" , "ali");  
+let result1 = teacherName("shahid", "ali");
 console.log(result1)
 
-let name1 : string = "shahid"
-let name2 : string = "ali"
+let name1: string = "shahid"
+let name2: string = "ali"
 console.log(`hi ${name1} ${name2}`);
 
-let GlobalVar=100;  
+let GlobalVar = 100;
 
-for (let c = 0; c < 3; c++){    //code block
-    console.log(GlobalVar);
-  }
+for (let c = 0; c < 3; c++) {    //code block
+  console.log(GlobalVar);
+}
