@@ -1,7 +1,7 @@
-let a : any = "Shahid"
+let a: any = "Shahid"
 console.log((a as string));
 
-let b : any = "Shahid"
+let b: any = "Shahid"
 console.log((b as string).length);
 
 
