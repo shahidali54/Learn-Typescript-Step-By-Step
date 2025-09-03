@@ -1,23 +1,23 @@
 interface a {
-    name : string,
-    age : number
+    name: string,
+    age: number
 }
 
 interface b {
-    name : string,
-    age : number ,
-    experience : boolean
+    name: string,
+    age: number,
+    experience: boolean
 }
 
-let c : a = {
-    name : "Shahid",
-    age : 20
+let c: a = {
+    name: "Shahid",
+    age: 20
 }
 
-let d : b = {
-    name : "Mazari",
-    age : 24,
-    experience : true
+let d: b = {
+    name: "Mazari",
+    age: 24,
+    experience: true
 }
 
 c = d
