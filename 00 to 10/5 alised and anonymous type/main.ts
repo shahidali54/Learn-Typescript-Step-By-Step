@@ -1,20 +1,20 @@
 // ALISED type 
 
-type a ={
-    name : string,
-    age : number
+type a = {
+    name: string,
+    age: number
 }
 
-let b : a = {
-    name : "Shahid",
-    age : 20
+let b: a = {
+    name: "Shahid",
+    age: 20
 }
 
 // ANONYMOUS type
-let c :{
-    name : string,
-    age : number
+let c: {
+    name: string,
+    age: number
 } = {
-    name : "Mazari",
-    age : 25
+    name: "Mazari",
+    age: 25
 }
