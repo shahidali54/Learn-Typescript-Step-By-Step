@@ -1,24 +1,24 @@
 import inquirer from "inquirer"
 const answers = await inquirer.prompt([
-        {
-            type: "number",
-            name: "numberOne",
-            message: "enter your first number"
-        },
-        {
-            type: "number",
-            name: "numberTwo",
-            message: "enter your second number"
-        },
-        {
-            type: "list",
-            name: "operator",
-            choices: ["+", "-", "*", "/"],
-            message:"select operator"
-        }
-        
-    ]);
-const {numberOne, numberTwo, operator} = answers
+    {
+        type: "number",
+        name: "numberOne",
+        message: "enter your first number"
+    },
+    {
+        type: "number",
+        name: "numberTwo",
+        message: "enter your second number"
+    },
+    {
+        type: "list",
+        name: "operator",
+        choices: ["+", "-", "*", "/"],
+        message: "select operator"
+    }
+
+]);
+const { numberOne, numberTwo, operator } = answers
 if (numberOne && numberTwo && operator) {
     let result: number = 0
 
@@ -34,6 +34,6 @@ if (numberOne && numberTwo && operator) {
     if (operator === "/") {
         result = numberOne / numberOne
     }
-console.log("your result is" + result);
+    console.log("your result is" + result);
 }
 console.log(answers);
