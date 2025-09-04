@@ -14,3 +14,4 @@ console.log(b);
 let fruits = ["mango", "banana", "cherry", "banana", "strawberry", "peach"];
 console.log(fruits.indexOf('banana', 2));
 export {};
+
