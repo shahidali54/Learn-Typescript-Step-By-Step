@@ -15,8 +15,8 @@ const answer = await inquirer.prompt([
 
 if (answer.pincode === pinAns) {
     console.log("correct pincode");
-    
- 
+
+
 
     let operationAns = await inquirer.prompt([
         {
@@ -40,10 +40,11 @@ if (answer.pincode === pinAns) {
 
     } else if (operationAns.operation === "Balance check") {
         console.log("your current balance " + balanceAns);
-        
+
     }
-    
+
 } else {
     console.log("incorrect pin code");
-    
-    }
+
+}
+
