@@ -47,7 +47,6 @@ Example :
  { "name": "Vipin", "age": 21 }
 
 
-
 JSON Array
 
 JSON array is written inside square brackets [ ].
