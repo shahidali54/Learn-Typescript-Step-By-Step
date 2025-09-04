@@ -1,8 +1,8 @@
 //strongly typed syntax
-let a : string = "Pakistan";
+let a: string = "Pakistan";
 a = "Canada";
-let b : number = 9;
-let c : boolean = true;
+let b: number = 9;
+let c: boolean = true;
 
 //type inference
 let e = "USA";
