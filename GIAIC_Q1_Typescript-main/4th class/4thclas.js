@@ -6,4 +6,4 @@ fullName = "shahidali";
 
 const hello = "shahid"
 
- const shahid ="mazari"
+const shahid = "mazari"
