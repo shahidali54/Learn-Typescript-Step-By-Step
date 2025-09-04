@@ -35,7 +35,7 @@
 //         result = num1 / num2
 //     }
 //     console.log("your result is", result);
-    
+
 // }
 // console.log(answer);
 
@@ -78,14 +78,14 @@
 
 
 type A = {
-    name : string
+    name: string
 }
 type B = A & {
-    age : number
+    age: number
 }
-const person : B = {
-    name : "shahid",
-    age : 20
+const person: B = {
+    name: "shahid",
+    age: 20
 }
-console.log(person.name); 
+console.log(person.name);
 console.log(person.age);
