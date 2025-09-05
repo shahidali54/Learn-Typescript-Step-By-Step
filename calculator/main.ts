@@ -40,3 +40,4 @@ if (numberOne && numberTwo && operator) {
     console.log("your result is" + result);
 }
 console.log(answers);
+
