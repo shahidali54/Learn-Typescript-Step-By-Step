@@ -13,3 +13,4 @@ if (answer.guess === randomNumber) {
 else {
     console.log(" phir se tukka lagao");
 }
+
