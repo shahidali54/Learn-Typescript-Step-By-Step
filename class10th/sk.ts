@@ -12,9 +12,9 @@ let answer = await inquirer.prompt([
 
 if (answer.guess === randomNumber) {
     console.log("correct your tukka");
-    
+
 }
 else {
     console.log(" phir se tukka lagao");
-    
+
 }
