@@ -43,6 +43,7 @@ if (num1 && num2 && operator) {
 }
 console.log(answers);
 
+
 // import inquirer from "inquirer";
 
 // const answers: {
