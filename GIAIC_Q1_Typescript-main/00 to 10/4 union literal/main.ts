@@ -1,4 +1,4 @@
-let a : string | number | boolean
+let a: string | number | boolean
 
 a = "Shahid"
 console.log(a);
