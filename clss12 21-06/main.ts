@@ -19,7 +19,6 @@ ball = bat   // SAME
 
 
 
-
 type Teacher = {
     name: string,
     age: number,
