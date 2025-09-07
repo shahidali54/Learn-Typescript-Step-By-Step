@@ -1,8 +1,8 @@
 // there are two type of module
 //  IMPORT EXPORT
 
-import a  from "./first"
+import a from "./first"
 
-import {c , d} from "./second"
+import { c, d } from "./second"
 
-console.log(a,c,d);
+console.log(a, c, d);
