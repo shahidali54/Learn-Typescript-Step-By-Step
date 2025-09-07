@@ -26,3 +26,4 @@ console.log(colorNamee);
 const enum Color6 { Red = 1, Green = 2, Blue = 4 };//can assign values to all
 var colorIndex2 = Color6["Blue"];
 console.log(colorIndex2);
+
