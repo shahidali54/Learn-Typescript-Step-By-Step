@@ -1,5 +1,5 @@
-let a : any = "Shahid"
+let a: any = "Shahid"
 console.log((a as string));
 
-let b : any = "Subhan"
+let b: any = "Subhan"
 console.log((b as string).length);
