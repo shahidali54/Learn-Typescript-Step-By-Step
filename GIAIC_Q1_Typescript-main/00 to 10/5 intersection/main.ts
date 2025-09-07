@@ -1,16 +1,16 @@
 type a = {
-    name : string,
-    age : number
- }
+   name: string,
+   age: number
+}
 
- type b = {
-    experience : boolean
- }
+type b = {
+   experience: boolean
+}
 
- let c : a & b  =  {
-    name : "Shahid",
-    age : 20,
-    experience : true
- }
+let c: a & b = {
+   name: "Shahid",
+   age: 20,
+   experience: true
+}
 
- console.log(c.age);
+console.log(c.age);
