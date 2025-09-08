@@ -1,7 +1,7 @@
 // array declare ways
-let a : number[] = []
-let b : Array<number> = []
-let c = ["Shahid" , 15]
+let a: number[] = []
+let b: Array<number> = []
+let c = ["Shahid", 15]
 c.push("Mazari)")
 console.log(c);
 
@@ -9,3 +9,4 @@ console.log(c);
 //     console.log(name)
 // }
 // sm("Shahid")
+
