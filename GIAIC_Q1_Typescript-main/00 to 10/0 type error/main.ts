@@ -1,2 +1,3 @@
-let a = "Shahid"
+let a = "Shahid";
+
 console.loger(a);
