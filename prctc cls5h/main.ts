@@ -11,8 +11,6 @@
 // let array1 : number[] = [5,6,7];
 // let array2 :Array<number> = [1,2,3];
 
-
-
 let a = 5;
 a++;
 console.log(a)
@@ -39,3 +37,4 @@ let GlobalVar = 100;
 for (let c = 0; c < 3; c++) {    //code block
   console.log(GlobalVar);
 }
+
