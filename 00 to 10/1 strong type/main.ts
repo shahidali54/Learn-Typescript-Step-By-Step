@@ -1,9 +1,9 @@
 // strong type
 
-let a : number = 15
+let a: number = 15
 console.log(a);
 
-let b : string = "Shahid"
+let b: string = "Shahid"
 b = "Mazari"
 console.log(b);
 
